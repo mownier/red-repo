@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="2152" measuredH="1950" mockupW="2078" mockupH="1829">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="2152" measuredH="1927" mockupW="2078" mockupH="1806">
   <controls>
     <control controlID="14" controlTypeID="__group__" x="74" y="121" w="320" h="568" measuredW="320" measuredH="568" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
@@ -1663,7 +1663,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="37" controlTypeID="__group__" x="74" y="1382" w="320" h="568" measuredW="320" measuredH="568" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="__group__" x="74" y="1359" w="320" h="568" measuredW="320" measuredH="568" zOrder="12" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="320" h="568" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="37">
           <controlProperties>
